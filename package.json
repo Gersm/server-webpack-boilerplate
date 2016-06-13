@@ -3,8 +3,10 @@
    "version": "0.0.1",
    "description": "Server Webpack Boilerplate",
    "author": "Gersom Alaja",
+   "license": "MIT",
+   "homepage": "https://github.com/Gersom/server-webpack-boilerplate/",
    "repository": {
       "type": "git",
-      "url": "https://github.com/Gersm/server-webpack-boilerplate.git"
+      "url": "https://github.com/Gersom/server-webpack-boilerplate.git"
    }
 }
