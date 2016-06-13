@@ -1,0 +1,13 @@
+{
+   "name": "server-webpack-boilerplate",
+   "version": "0.0.1",
+   "description": "Server Webpack Boilerplate",
+   "author": "Gersom Alaja",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Gersm/server-webpack-boilerplate.git"
+   },
+   "dependencies": {
+      "webpack": "^1.13.1",
+   },
+}
