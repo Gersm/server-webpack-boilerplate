@@ -1,12 +1,15 @@
 {
-   "name": "server-webpack-boilerplate",
-   "version": "0.0.1",
-   "description": "Server Webpack Boilerplate",
-   "author": "Gersom Alaja",
-   "license": "MIT",
-   "homepage": "https://github.com/Gersom/server-webpack-boilerplate/",
-   "repository": {
-      "type": "git",
-      "url": "https://github.com/Gersom/server-webpack-boilerplate.git"
-   }
+  "name": "server-webpack-boilerplate",
+  "version": "0.0.1",
+  "description": "Server Webpack Boilerplate",
+  "author": "Gersom Alaja",
+  "license": "MIT",
+  "homepage": "https://github.com/Gersom/server-webpack-boilerplate/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gersom/server-webpack-boilerplate.git"
+  },
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
 }
