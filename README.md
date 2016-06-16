@@ -20,5 +20,16 @@
        "style": ["stylus", "sass"],
    }
 ```
+
+## Installation
+
+```bash
+git clone https://github.com/Gersom/server-webpack-boilerplate.git
+cd server-webpack-boilerplate
+npm install
+npm run dev # compiled files
+npm run watch # compiled watch files
+```
+
 ## License
 server-webpack-boilerplate is licensed under [The MIT License](LICENSE).
