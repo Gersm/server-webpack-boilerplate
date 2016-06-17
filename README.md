@@ -8,7 +8,7 @@
        "dist": "Distribution for files",
        "src": "Source files",
        "static": "Files that are not compiled",
-       "webpack": "configuration files for example: webpack.config.js"
+       "config": "configuration files for example: webpack.config.js"
    }
 ```
    * Branch:
